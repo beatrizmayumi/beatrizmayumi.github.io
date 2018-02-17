@@ -1,31 +1,19 @@
-## Welcome!
 
-### Experiência profissional
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Education
 ```markdown
-Syntax highlighted code block
+2014-2018 - Bachelor of Computer Science (in progress), Federal University of ABC (ABC), Santo André, Brazil.
+2014-2017 - Bachelor of Science and Technology, Federal University of ABC (ABC), Santo André, Brazil.
+2012-2013 - Technical course in Informatics, Paula Souza State Center for Technological Education, São Vicente, Brazil.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-### Formação Acadêmica
+### Work Experience
+```markdown
+2017- Internship at Microsoft, São Paulo, Brazil.
+2016-2017 - Research scholarship at UFABC (by National Council for Scientific and Technological Development - CNPq).
+2015-2016 - Member of UFABC jr. (junior enterprise at UFABC).
+2014-2015 - Technical Training Program at UFABC - (by São Paulo Research Foundation - Fapesp).
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beatrizmayumi/beatrizmayumi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+beatriz.mayumi@aluno.ufabc.edu.br
