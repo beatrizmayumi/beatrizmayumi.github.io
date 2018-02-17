@@ -1,18 +1,15 @@
 
-### Welcome!
+
+### Brief CV
 
 ### Education
-```markdown
-2014-2018 - Bachelor of Computer Science (in progress), 
-Federal University of ABC (ABC), Santo André, Brazil.
 
-2014-2017 - Bachelor of Science and Technology, 
-Federal University of ABC (ABC), Santo André, Brazil.
+2014-2018 - Bachelor of Computer Science (in progress), Federal University of ABC (ABC), Santo André, Brazil.
 
-2012-2013 - Technical course in Informatics, 
-Paula Souza State Center for Technological Education, São Vicente, Brazil.
+2014-2017 - Bachelor of Science and Technology, Federal University of ABC (ABC), Santo André, Brazil.
 
-```
+2012-2013 - Technical course in Informatics, Paula Souza State Center for Technological Education, São Vicente, Brazil.
+
 
 ### Work Experience
 
