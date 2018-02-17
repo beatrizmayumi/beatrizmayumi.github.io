@@ -15,7 +15,7 @@
 
 2017- Internship at Microsoft, São Paulo, Brazil.
 
-2016-2017 - Research scholarship at UFABC (by National Council for Scientific and Technological Development - CNPq).
+2016-2017 - Research scholarship (by National Council for Scientific and Technological Development - CNPq).
 
 2015-2016 - Member of UFABC jr. (junior enterprise at UFABC).
 
