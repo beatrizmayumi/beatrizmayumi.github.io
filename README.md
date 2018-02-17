@@ -23,4 +23,5 @@
 
 
 ### Contact
-[beatriz.mayumi@aluno.ufabc.edu.br](beatriz.mayumi@aluno.ufabc.edu.br)
+[beatriz.mayumi@aluno.ufabc.edu.br](malito:beatriz.mayumi@aluno.ufabc.edu.br)
+
