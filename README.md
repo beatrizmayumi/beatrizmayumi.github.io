@@ -19,8 +19,8 @@
 
 2015-2016 - Member of UFABC jr. (junior enterprise at UFABC).
 
-2014-2015 - Technical Training Program at UFABC - (by São Paulo Research Foundation - Fapesp).
+2014-2015 - Technical Training Program at UFABC (by São Paulo Research Foundation - Fapesp).
 
 
 ### Contact
-beatriz.mayumi@aluno.ufabc.edu.br
+[beatriz.mayumi@aluno.ufabc.edu.br](beatriz.mayumi@aluno.ufabc.edu.br)
