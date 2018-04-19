@@ -4,11 +4,11 @@
 
 ### Education
 
-2014-2018 - Bachelor of Computer Science (in progress), Federal University of ABC (UFABC), Santo André, Brazil.
+2014-present - Bachelor's degree in Computer Science, Federal University of ABC (UFABC), Santo André, SP, Brazil.
 
-2014-2017 - Bachelor of Science and Technology, Federal University of ABC (UFABC), Santo André, Brazil.
+2014-2017 - Bachelor of Science and Technology, Federal University of ABC (UFABC), Santo André, SP, Brazil.
 
-2012-2013 - Technical course in Informatics, Paula Souza State Center for Technological Education, São Vicente, Brazil.
+2012-2013 - Informatics Technician, State Center for Technological Education Paula Souza, São Vicente, SP, Brazil.
 
 
 ### Work Experience
